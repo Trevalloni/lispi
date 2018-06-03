@@ -1,2 +1,3 @@
 # lispi
-lisp-based os for pi
+
+lisp-based baremetal os for raspberry pi zero
